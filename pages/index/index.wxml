@@ -1,2 +1,3 @@
 <!--index.wxml-->
 <view class="box">hello</view>
+<view class="box">hello</view>
